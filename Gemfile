@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem "pry", "~> 0.13.1"
 
-gem "sinatra", "~> 2.0"
+gem "sinatra", "~> 2.2"
 
 gem "activerecord", "~> 6.0"
 
