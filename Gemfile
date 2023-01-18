@@ -4,7 +4,7 @@ gem "pry", "~> 0.13.1"
 
 gem "sinatra", "~> 2.0"
 
-gem "activerecord", "~> 6.0"
+gem "activerecord", "~> 6.1"
 
 gem "rake", "~> 13.0"
 
